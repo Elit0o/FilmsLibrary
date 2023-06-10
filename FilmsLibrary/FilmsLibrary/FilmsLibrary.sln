@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmsLibrary", "FilmsLibrary.csproj", "{797A7C78-A060-4ED9-AB0C-F03511AEABB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{45D37FF2-5749-4B38-B4B9-2E42A13C5E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{7736F7C6-6457-4900-9563-0A14B8BBB135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797A7C78-A060-4ED9-AB0C-F03511AEABB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797A7C78-A060-4ED9-AB0C-F03511AEABB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797A7C78-A060-4ED9-AB0C-F03511AEABB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797A7C78-A060-4ED9-AB0C-F03511AEABB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D37FF2-5749-4B38-B4B9-2E42A13C5E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D37FF2-5749-4B38-B4B9-2E42A13C5E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D37FF2-5749-4B38-B4B9-2E42A13C5E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D37FF2-5749-4B38-B4B9-2E42A13C5E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7736F7C6-6457-4900-9563-0A14B8BBB135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7736F7C6-6457-4900-9563-0A14B8BBB135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7736F7C6-6457-4900-9563-0A14B8BBB135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7736F7C6-6457-4900-9563-0A14B8BBB135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0AE3E4-C782-4716-B9CB-DB579CB7CCB4}
+	EndGlobalSection
+EndGlobal

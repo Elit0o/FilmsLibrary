@@ -1,0 +1,16 @@
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\Business.exe.config
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\Business.exe
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\Business.pdb
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\Data.exe
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\EntityFramework.dll
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\Data.pdb
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\Data.exe.config
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\EntityFramework.xml
+D:\Code stuff\FilmsLibrary\Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code stuff\FilmsLibrary\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\Code stuff\FilmsLibrary\Business\obj\Debug\Business.csproj.SuggestedBindingRedirects.cache
+D:\Code stuff\FilmsLibrary\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Code stuff\FilmsLibrary\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Code stuff\FilmsLibrary\Business\obj\Debug\Business.exe
+D:\Code stuff\FilmsLibrary\Business\obj\Debug\Business.pdb

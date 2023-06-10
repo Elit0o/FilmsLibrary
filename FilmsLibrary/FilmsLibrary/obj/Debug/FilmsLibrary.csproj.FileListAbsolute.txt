@@ -1,0 +1,38 @@
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\FilmsLibrary.exe.config
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\FilmsLibrary.exe
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\FilmsLibrary.pdb
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\Business.exe
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\Data.exe
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.dll
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\Business.pdb
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\Business.exe.config
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\Data.pdb
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\Data.exe.config
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.xml
+D:\Code stuff\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code stuff\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.AssemblyReference.cache
+D:\Code stuff\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.SuggestedBindingRedirects.cache
+D:\Code stuff\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.CoreCompileInputs.cache
+D:\Code stuff\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.CopyComplete
+D:\Code stuff\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.exe
+D:\Code stuff\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.pdb
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\FilmsLibrary.exe.config
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\FilmsLibrary.exe
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\FilmsLibrary.pdb
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\Business.exe
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\Data.exe
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\Business.pdb
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\Business.exe.config
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\Data.pdb
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\Data.exe.config
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.csproj.CopyComplete
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.exe
+C:\Users\Eli\Desktop\FilmsLibrary\FilmsLibrary\FilmsLibrary\obj\Debug\FilmsLibrary.pdb

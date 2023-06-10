@@ -1,0 +1,13 @@
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\Data.exe.config
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\Data.exe
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\Data.pdb
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\EntityFramework.dll
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\EntityFramework.xml
+D:\Code stuff\FilmsLibrary\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code stuff\FilmsLibrary\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\Code stuff\FilmsLibrary\Data\obj\Debug\Data.csproj.SuggestedBindingRedirects.cache
+D:\Code stuff\FilmsLibrary\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Code stuff\FilmsLibrary\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Code stuff\FilmsLibrary\Data\obj\Debug\Data.exe
+D:\Code stuff\FilmsLibrary\Data\obj\Debug\Data.pdb
